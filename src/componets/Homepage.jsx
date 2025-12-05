@@ -1,12 +1,12 @@
 import React from 'react'
-import Aboutus from '../pages/Aboutus'
-import Contactus from '../pages/Contactus'
+import Aboutpage from './Aboutpage'
+import Contactpage from './Contactpage'
 
 function Homepage() {
   return (
     <div>
-        <Aboutus/>
-        <Contactus/>
+        <Aboutpage/>
+        <Contactpage/>
     </div>
   )
 }

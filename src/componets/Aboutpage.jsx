@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Aboutus() {
+function Aboutpage() {
   return (
-    <div>
+     <div>
         <h2>About Us</h2>
         <p>We are located in Utawala Airways</p>
         <p>Shop Building Name Airways Mall</p>
@@ -10,4 +10,4 @@ function Aboutus() {
   )
 }
 
-export default Aboutus
+export default Aboutpage
